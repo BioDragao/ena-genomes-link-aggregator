@@ -305,8 +305,8 @@ for link in links_of_genome_r_files:
     file_location = "/" + "/".join(link.split("/")[3:-1]) + "/"
     file_name = link.split("/")[-1]
     print("\n##############\n")
-    print(file_name)
-    print(file_location)
+    print("File Name =>  ", file_name)
+    print("File Location => ", file_location)
     ftp.cwd(file_location)
     getFile(ftp,file_name)
     print("\n##############\n")
