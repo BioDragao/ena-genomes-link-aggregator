@@ -1,0 +1,1624 @@
+
+##################
+SRR3105766_2.fastq.gz  and  SRR3105766_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ed887b4698ed0e7651bbc0aebc5e6ee4
+md5sum of file2 :  ed887b4698ed0e7651bbc0aebc5e6ee4
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [328.8034543991089, 'MB']
+size of file2 :  [328.8034543991089, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105766_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR6480514_1.fastq.gz  and  SRR6480514_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  1ba3a9b255268ffb78177201b30ac277
+md5sum of file2 :  1ba3a9b255268ffb78177201b30ac277
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [200.6040153503418, 'MB']
+size of file2 :  [200.6040153503418, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR6480514_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105776_2.fastq.gz  and  SRR3105776_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  4a58a7f3803de6f3bd0e5066e5365eb6
+md5sum of file2 :  4a58a7f3803de6f3bd0e5066e5365eb6
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [87.86489391326904, 'MB']
+size of file2 :  [87.86489391326904, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105776_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818699_1.fastq.gz  and  SRR5818699_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  cbd01541b53af3d0e06dc1b434803ae7
+md5sum of file2 :  cbd01541b53af3d0e06dc1b434803ae7
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [125.67472457885742, 'MB']
+size of file2 :  [125.67472457885742, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818699_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105766_1.fastq.gz  and  SRR3105766_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  6598362dbd65234b17b1d5394b4b5663
+md5sum of file2 :  6598362dbd65234b17b1d5394b4b5663
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [328.805326461792, 'MB']
+size of file2 :  [328.805326461792, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105766_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161059_1.fastq.gz  and  ERR161059_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  a24e3e5918124f6d5f5cac8f046b313e
+md5sum of file2 :  a24e3e5918124f6d5f5cac8f046b313e
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [276.50477409362793, 'MB']
+size of file2 :  [276.50477409362793, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161059_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036201_2.fastq.gz  and  ERR036201_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  4098fca0f72f2a159841df5825a426ca
+md5sum of file2 :  4098fca0f72f2a159841df5825a426ca
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [118.36006736755371, 'MB']
+size of file2 :  [118.36006736755371, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036201_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161190_2.fastq.gz  and  ERR161190_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  dbf694a4df3461463e38c13bf4f29b0d
+md5sum of file2 :  dbf694a4df3461463e38c13bf4f29b0d
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [207.83687019348145, 'MB']
+size of file2 :  [207.83687019348145, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161190_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126631_1.fastq.gz  and  ERR126631_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  1be5634f48071279bf2e22944bdedd9a
+md5sum of file2 :  1be5634f48071279bf2e22944bdedd9a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [519.2890357971191, 'MB']
+size of file2 :  [519.2890357971191, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126631_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126605_2.fastq.gz  and  ERR126605_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  971408c4953d508313a6d74f8b24dae5
+md5sum of file2 :  971408c4953d508313a6d74f8b24dae5
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [514.9015588760376, 'MB']
+size of file2 :  [514.9015588760376, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126605_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR1394280_2.fastq.gz  and  ERR1394280_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  e3bf49e7fb039b45bbb6cb27be318067
+md5sum of file2 :  e3bf49e7fb039b45bbb6cb27be318067
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [93.55681228637695, 'MB']
+size of file2 :  [93.55681228637695, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR1394280_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105777_2.fastq.gz  and  SRR3105777_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ec38ac3ee7107e148a3b1065500948c2
+md5sum of file2 :  ec38ac3ee7107e148a3b1065500948c2
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [214.84260940551758, 'MB']
+size of file2 :  [214.84260940551758, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105777_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126631_2.fastq.gz  and  ERR126631_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  00210e4b953cc2181ff73871b195cb90
+md5sum of file2 :  00210e4b953cc2181ff73871b195cb90
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [518.6769142150879, 'MB']
+size of file2 :  [518.6769142150879, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126631_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161031_2.fastq.gz  and  ERR161031_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  86f5e7e980349fcb22c054587fb32f72
+md5sum of file2 :  86f5e7e980349fcb22c054587fb32f72
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [169.02073764801025, 'MB']
+size of file2 :  [169.02073764801025, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161031_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161131_1.fastq.gz  and  ERR161131_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  a22cb18212e8e7c6c57ede1bd3a29dbd
+md5sum of file2 :  a22cb18212e8e7c6c57ede1bd3a29dbd
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [171.69995880126953, 'MB']
+size of file2 :  [171.69995880126953, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161131_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105777_1.fastq.gz  and  SRR3105777_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  2db11593ee11fb4d460684747f46fa8c
+md5sum of file2 :  2db11593ee11fb4d460684747f46fa8c
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [220.1347532272339, 'MB']
+size of file2 :  [220.1347532272339, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105777_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082090_1.fastq.gz  and  SRR3082090_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  6f59c83661d9de697d6881ae1c17aad1
+md5sum of file2 :  6f59c83661d9de697d6881ae1c17aad1
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [102.97822856903076, 'MB']
+size of file2 :  [102.97822856903076, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082090_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082090_2.fastq.gz  and  SRR3082090_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  628c17f0041720ebbeb5c214aca8697a
+md5sum of file2 :  628c17f0041720ebbeb5c214aca8697a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [104.42057228088379, 'MB']
+size of file2 :  [104.42057228088379, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082090_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR124640_2.fastq.gz  and  ERR124640_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  57bbdadfccb1d739ab9092048415c736
+md5sum of file2 :  57bbdadfccb1d739ab9092048415c736
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [511.40191745758057, 'MB']
+size of file2 :  [511.40191745758057, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR124640_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818699_2.fastq.gz  and  SRR5818699_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ee78aee12d2f888da1cdc9199b9e63ad
+md5sum of file2 :  ee78aee12d2f888da1cdc9199b9e63ad
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [112.51566982269287, 'MB']
+size of file2 :  [112.51566982269287, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818699_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5314269_1.fastq.gz  and  SRR5314269_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  33110edf2705bc0bf068ac2ab9bf03f3
+md5sum of file2 :  33110edf2705bc0bf068ac2ab9bf03f3
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [246.86740970611572, 'MB']
+size of file2 :  [246.86740970611572, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5314269_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082083_1.fastq.gz  and  SRR3082083_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c12d6548b2e56e441a503424ef3cbf4b
+md5sum of file2 :  c12d6548b2e56e441a503424ef3cbf4b
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [40.25541019439697, 'MB']
+size of file2 :  [40.25541019439697, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082083_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105776_1.fastq.gz  and  SRR3105776_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  3fa8ba66b0a6472c399d70de307fe5dc
+md5sum of file2 :  3fa8ba66b0a6472c399d70de307fe5dc
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [95.00707149505615, 'MB']
+size of file2 :  [95.00707149505615, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105776_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126605_1.fastq.gz  and  ERR126605_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  47a01282de499b137dcdfa11fa467870
+md5sum of file2 :  47a01282de499b137dcdfa11fa467870
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [514.488881111145, 'MB']
+size of file2 :  [514.488881111145, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126605_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR037511_1.fastq.gz  and  ERR037511_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  e5cda13d7ad5924e04d0c7daa7d52a1a
+md5sum of file2 :  e5cda13d7ad5924e04d0c7daa7d52a1a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [247.27728939056396, 'MB']
+size of file2 :  [247.27728939056396, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR037511_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR1394280_1.fastq.gz  and  ERR1394280_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  87c1ad5eef211579187cd9a16d89d8e9
+md5sum of file2 :  87c1ad5eef211579187cd9a16d89d8e9
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [87.86869049072266, 'MB']
+size of file2 :  [87.86869049072266, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR1394280_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818705_1.fastq.gz  and  SRR5818705_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  dbc5e3d4c190825e4398cbf323a52af7
+md5sum of file2 :  dbc5e3d4c190825e4398cbf323a52af7
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [133.5624074935913, 'MB']
+size of file2 :  [133.5624074935913, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818705_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161190_1.fastq.gz  and  ERR161190_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  6577a33ca0975377b64903e9acadce48
+md5sum of file2 :  6577a33ca0975377b64903e9acadce48
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [189.43691062927246, 'MB']
+size of file2 :  [189.43691062927246, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161190_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161059_2.fastq.gz  and  ERR161059_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  bb337307ef894b18d60456acee227cde
+md5sum of file2 :  bb337307ef894b18d60456acee227cde
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [298.005970954895, 'MB']
+size of file2 :  [298.005970954895, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161059_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161181_2.fastq.gz  and  ERR161181_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  4150ef25c2636ef2ca3af0d2c9a13345
+md5sum of file2 :  4150ef25c2636ef2ca3af0d2c9a13345
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [205.97158336639404, 'MB']
+size of file2 :  [205.97158336639404, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161181_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5314269_2.fastq.gz  and  SRR5314269_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  94f3529b81b81d398d0029a1d62ea762
+md5sum of file2 :  94f3529b81b81d398d0029a1d62ea762
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [281.2580327987671, 'MB']
+size of file2 :  [281.2580327987671, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5314269_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161089_1.fastq.gz  and  ERR161089_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  b97bd53e71d09bbdf68ade0d9a6c2486
+md5sum of file2 :  b97bd53e71d09bbdf68ade0d9a6c2486
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [151.61981201171875, 'MB']
+size of file2 :  [151.61981201171875, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161089_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR037511_2.fastq.gz  and  ERR037511_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c88bc5c196d6be1762dbec6a9b7d663a
+md5sum of file2 :  c88bc5c196d6be1762dbec6a9b7d663a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [242.61451053619385, 'MB']
+size of file2 :  [242.61451053619385, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR037511_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161089_2.fastq.gz  and  ERR161089_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  278778fd997c7e4c6b0aabeb7e2cd3e2
+md5sum of file2 :  278778fd997c7e4c6b0aabeb7e2cd3e2
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [163.41453742980957, 'MB']
+size of file2 :  [163.41453742980957, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161089_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341244_2.fastq.gz  and  SRR5341244_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  534e76454da94b842311bcae293365b6
+md5sum of file2 :  534e76454da94b842311bcae293365b6
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [122.81828784942627, 'MB']
+size of file2 :  [122.81828784942627, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341244_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR4423177_2.fastq.gz  and  SRR4423177_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  91dc49573f8ab5bfb67c4a67f621f700
+md5sum of file2 :  91dc49573f8ab5bfb67c4a67f621f700
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [183.3087558746338, 'MB']
+size of file2 :  [183.3087558746338, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR4423177_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161181_1.fastq.gz  and  ERR161181_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  bfcc528dcb92f155399e2f9ab51779ff
+md5sum of file2 :  bfcc528dcb92f155399e2f9ab51779ff
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [187.93706226348877, 'MB']
+size of file2 :  [187.93706226348877, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161181_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR6480514_2.fastq.gz  and  SRR6480514_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  b4c89563d7c865749d8547cb45f270cd
+md5sum of file2 :  b4c89563d7c865749d8547cb45f270cd
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [206.91306495666504, 'MB']
+size of file2 :  [206.91306495666504, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR6480514_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036236_1.fastq.gz  and  ERR036236_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ac43b648873e0a99e05a3b6a9935df93
+md5sum of file2 :  ac43b648873e0a99e05a3b6a9935df93
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [210.66535472869873, 'MB']
+size of file2 :  [210.66535472869873, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036236_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036217_2.fastq.gz  and  ERR036217_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  b536b76c61ab2c92a418dd9431a81b5d
+md5sum of file2 :  b536b76c61ab2c92a418dd9431a81b5d
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [120.58932971954346, 'MB']
+size of file2 :  [120.58932971954346, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036217_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341244_1.fastq.gz  and  SRR5341244_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  29fdd29827c0cff87f75c5c10b9ffecb
+md5sum of file2 :  29fdd29827c0cff87f75c5c10b9ffecb
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [99.75895309448242, 'MB']
+size of file2 :  [99.75895309448242, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341244_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161085_2.fastq.gz  and  ERR161085_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  eae4b78e51eb06100a014c80d8c70d11
+md5sum of file2 :  eae4b78e51eb06100a014c80d8c70d11
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [330.78503227233887, 'MB']
+size of file2 :  [330.78503227233887, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161085_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818705_2.fastq.gz  and  SRR5818705_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  55c3c863190cd0e70deb1120ecfd8717
+md5sum of file2 :  55c3c863190cd0e70deb1120ecfd8717
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [137.02930450439453, 'MB']
+size of file2 :  [137.02930450439453, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818705_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161085_1.fastq.gz  and  ERR161085_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  7de110ed039923dca14a5b9681fcd8c7
+md5sum of file2 :  7de110ed039923dca14a5b9681fcd8c7
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [306.86058712005615, 'MB']
+size of file2 :  [306.86058712005615, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161085_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161180_1.fastq.gz  and  ERR161180_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  e696721d1be8252a05e37fd93c0d835c
+md5sum of file2 :  e696721d1be8252a05e37fd93c0d835c
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [182.40711307525635, 'MB']
+size of file2 :  [182.40711307525635, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161180_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161180_2.fastq.gz  and  ERR161180_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  53c1113aa6f662bfbe68c68da1e2447e
+md5sum of file2 :  53c1113aa6f662bfbe68c68da1e2447e
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [200.18157577514648, 'MB']
+size of file2 :  [200.18157577514648, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161180_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036236_2.fastq.gz  and  ERR036236_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  53ecc14d63f4bb778fb50c568542d9a5
+md5sum of file2 :  53ecc14d63f4bb778fb50c568542d9a5
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [200.68313026428223, 'MB']
+size of file2 :  [200.68313026428223, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036236_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161063_2.fastq.gz  and  ERR161063_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  80c3c86e7e4c8d937a0d8cf1e34cfa96
+md5sum of file2 :  80c3c86e7e4c8d937a0d8cf1e34cfa96
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [169.21474933624268, 'MB']
+size of file2 :  [169.21474933624268, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161063_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036222_2.fastq.gz  and  ERR036222_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  5e5dd7c96563940a9fb3ae1f697be35d
+md5sum of file2 :  5e5dd7c96563940a9fb3ae1f697be35d
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [154.3700466156006, 'MB']
+size of file2 :  [154.3700466156006, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036222_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341242_2.fastq.gz  and  SRR5341242_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c04c615372dedcbc1e51ff012c69c380
+md5sum of file2 :  c04c615372dedcbc1e51ff012c69c380
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [126.64517974853516, 'MB']
+size of file2 :  [126.64517974853516, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341242_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR124640_1.fastq.gz  and  ERR124640_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  a5ed8a7530c1c2e6994b328d4df1e5ce
+md5sum of file2 :  a5ed8a7530c1c2e6994b328d4df1e5ce
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [508.8242177963257, 'MB']
+size of file2 :  [508.8242177963257, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR124640_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036201_1.fastq.gz  and  ERR036201_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  afb18c81ea7f6d4fea2226b4547e05a5
+md5sum of file2 :  afb18c81ea7f6d4fea2226b4547e05a5
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [125.13011360168457, 'MB']
+size of file2 :  [125.13011360168457, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036201_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161063_1.fastq.gz  and  ERR161063_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  04c28ef4b9958a79b608a070dbb4db3a
+md5sum of file2 :  04c28ef4b9958a79b608a070dbb4db3a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [156.74116134643555, 'MB']
+size of file2 :  [156.74116134643555, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161063_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161131_2.fastq.gz  and  ERR161131_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c32739d46143d439db76f079064418ea
+md5sum of file2 :  c32739d46143d439db76f079064418ea
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [188.74922466278076, 'MB']
+size of file2 :  [188.74922466278076, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161131_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341242_1.fastq.gz  and  SRR5341242_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  13894536532af253359c81eed3c703f3
+md5sum of file2 :  13894536532af253359c81eed3c703f3
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [113.26272773742676, 'MB']
+size of file2 :  [113.26272773742676, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341242_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036213_2.fastq.gz  and  ERR036213_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  71983533d0cfb74aa229d58329516d80
+md5sum of file2 :  71983533d0cfb74aa229d58329516d80
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [150.26159954071045, 'MB']
+size of file2 :  [150.26159954071045, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036213_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082083_2.fastq.gz  and  SRR3082083_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  907f91b3ac43a29fe9183151d28d5f5b
+md5sum of file2 :  907f91b3ac43a29fe9183151d28d5f5b
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [40.784454345703125, 'MB']
+size of file2 :  [40.784454345703125, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082083_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036222_1.fastq.gz  and  ERR036222_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  91a7d54af8bdc42660082250c273fb80
+md5sum of file2 :  91a7d54af8bdc42660082250c273fb80
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [161.07456398010254, 'MB']
+size of file2 :  [161.07456398010254, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036222_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161031_1.fastq.gz  and  ERR161031_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  285d5196aa1af84d22eac28dce495425
+md5sum of file2 :  285d5196aa1af84d22eac28dce495425
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [156.65486431121826, 'MB']
+size of file2 :  [156.65486431121826, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161031_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036213_1.fastq.gz  and  ERR036213_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  7eab0323517b8b19984cb125988aed87
+md5sum of file2 :  7eab0323517b8b19984cb125988aed87
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [156.91753387451172, 'MB']
+size of file2 :  [156.91753387451172, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036213_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+
+
+
+ [F4] Vi (INSERT)   145/145 [F3] History [F6] Paste mode                                                                            [F2] Menu - CPython 3.6.7
+
+
+##################
+SRR4423177_1.fastq.gz  and  SRR4423177_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  1ce8caff6616b3aa463c864d03f9d5b9
+md5sum of file2 :  1ce8caff6616b3aa463c864d03f9d5b9
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [207.8106336593628, 'MB']
+size of file2 :  [207.8106336593628, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR4423177_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036217_1.fastq.gz  and  ERR036217_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c0b9e2dae0b308c8dfc3f33eb8db39dd
+md5sum of file2 :  c0b9e2dae0b308c8dfc3f33eb8db39dd
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [125.79939556121826, 'MB']
+size of file2 :  [125.79939556121826, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036217_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+>>>
+
+##################
+SRR3105766_2.fastq.gz  and  SRR3105766_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ed887b4698ed0e7651bbc0aebc5e6ee4
+md5sum of file2 :  ed887b4698ed0e7651bbc0aebc5e6ee4
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [328.8034543991089, 'MB']
+size of file2 :  [328.8034543991089, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105766_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR6480514_1.fastq.gz  and  SRR6480514_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  1ba3a9b255268ffb78177201b30ac277
+md5sum of file2 :  1ba3a9b255268ffb78177201b30ac277
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [200.6040153503418, 'MB']
+size of file2 :  [200.6040153503418, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR6480514_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105776_2.fastq.gz  and  SRR3105776_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  4a58a7f3803de6f3bd0e5066e5365eb6
+md5sum of file2 :  4a58a7f3803de6f3bd0e5066e5365eb6
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [87.86489391326904, 'MB']
+size of file2 :  [87.86489391326904, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105776_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818699_1.fastq.gz  and  SRR5818699_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  cbd01541b53af3d0e06dc1b434803ae7
+md5sum of file2 :  cbd01541b53af3d0e06dc1b434803ae7
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [125.67472457885742, 'MB']
+size of file2 :  [125.67472457885742, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818699_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105766_1.fastq.gz  and  SRR3105766_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  6598362dbd65234b17b1d5394b4b5663
+md5sum of file2 :  6598362dbd65234b17b1d5394b4b5663
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [328.805326461792, 'MB']
+size of file2 :  [328.805326461792, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105766_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161059_1.fastq.gz  and  ERR161059_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  a24e3e5918124f6d5f5cac8f046b313e
+md5sum of file2 :  a24e3e5918124f6d5f5cac8f046b313e
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [276.50477409362793, 'MB']
+size of file2 :  [276.50477409362793, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161059_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036201_2.fastq.gz  and  ERR036201_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  4098fca0f72f2a159841df5825a426ca
+md5sum of file2 :  4098fca0f72f2a159841df5825a426ca
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [118.36006736755371, 'MB']
+size of file2 :  [118.36006736755371, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036201_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161190_2.fastq.gz  and  ERR161190_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  dbf694a4df3461463e38c13bf4f29b0d
+md5sum of file2 :  dbf694a4df3461463e38c13bf4f29b0d
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [207.83687019348145, 'MB']
+size of file2 :  [207.83687019348145, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161190_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126631_1.fastq.gz  and  ERR126631_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  1be5634f48071279bf2e22944bdedd9a
+md5sum of file2 :  1be5634f48071279bf2e22944bdedd9a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [519.2890357971191, 'MB']
+size of file2 :  [519.2890357971191, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126631_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126605_2.fastq.gz  and  ERR126605_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  971408c4953d508313a6d74f8b24dae5
+md5sum of file2 :  971408c4953d508313a6d74f8b24dae5
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [514.9015588760376, 'MB']
+size of file2 :  [514.9015588760376, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126605_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR1394280_2.fastq.gz  and  ERR1394280_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  e3bf49e7fb039b45bbb6cb27be318067
+md5sum of file2 :  e3bf49e7fb039b45bbb6cb27be318067
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [93.55681228637695, 'MB']
+size of file2 :  [93.55681228637695, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR1394280_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105777_2.fastq.gz  and  SRR3105777_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ec38ac3ee7107e148a3b1065500948c2
+md5sum of file2 :  ec38ac3ee7107e148a3b1065500948c2
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [214.84260940551758, 'MB']
+size of file2 :  [214.84260940551758, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105777_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126631_2.fastq.gz  and  ERR126631_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  00210e4b953cc2181ff73871b195cb90
+md5sum of file2 :  00210e4b953cc2181ff73871b195cb90
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [518.6769142150879, 'MB']
+size of file2 :  [518.6769142150879, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126631_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161031_2.fastq.gz  and  ERR161031_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  86f5e7e980349fcb22c054587fb32f72
+md5sum of file2 :  86f5e7e980349fcb22c054587fb32f72
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [169.02073764801025, 'MB']
+size of file2 :  [169.02073764801025, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161031_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161131_1.fastq.gz  and  ERR161131_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  a22cb18212e8e7c6c57ede1bd3a29dbd
+md5sum of file2 :  a22cb18212e8e7c6c57ede1bd3a29dbd
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [171.69995880126953, 'MB']
+size of file2 :  [171.69995880126953, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161131_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105777_1.fastq.gz  and  SRR3105777_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  2db11593ee11fb4d460684747f46fa8c
+md5sum of file2 :  2db11593ee11fb4d460684747f46fa8c
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [220.1347532272339, 'MB']
+size of file2 :  [220.1347532272339, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105777_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082090_1.fastq.gz  and  SRR3082090_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  6f59c83661d9de697d6881ae1c17aad1
+md5sum of file2 :  6f59c83661d9de697d6881ae1c17aad1
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [102.97822856903076, 'MB']
+size of file2 :  [102.97822856903076, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082090_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082090_2.fastq.gz  and  SRR3082090_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  628c17f0041720ebbeb5c214aca8697a
+md5sum of file2 :  628c17f0041720ebbeb5c214aca8697a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [104.42057228088379, 'MB']
+size of file2 :  [104.42057228088379, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082090_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR124640_2.fastq.gz  and  ERR124640_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  57bbdadfccb1d739ab9092048415c736
+md5sum of file2 :  57bbdadfccb1d739ab9092048415c736
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [511.40191745758057, 'MB']
+size of file2 :  [511.40191745758057, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR124640_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818699_2.fastq.gz  and  SRR5818699_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ee78aee12d2f888da1cdc9199b9e63ad
+md5sum of file2 :  ee78aee12d2f888da1cdc9199b9e63ad
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [112.51566982269287, 'MB']
+size of file2 :  [112.51566982269287, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818699_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5314269_1.fastq.gz  and  SRR5314269_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  33110edf2705bc0bf068ac2ab9bf03f3
+md5sum of file2 :  33110edf2705bc0bf068ac2ab9bf03f3
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [246.86740970611572, 'MB']
+size of file2 :  [246.86740970611572, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5314269_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082083_1.fastq.gz  and  SRR3082083_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c12d6548b2e56e441a503424ef3cbf4b
+md5sum of file2 :  c12d6548b2e56e441a503424ef3cbf4b
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [40.25541019439697, 'MB']
+size of file2 :  [40.25541019439697, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082083_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3105776_1.fastq.gz  and  SRR3105776_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  3fa8ba66b0a6472c399d70de307fe5dc
+md5sum of file2 :  3fa8ba66b0a6472c399d70de307fe5dc
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [95.00707149505615, 'MB']
+size of file2 :  [95.00707149505615, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3105776_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR126605_1.fastq.gz  and  ERR126605_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  47a01282de499b137dcdfa11fa467870
+md5sum of file2 :  47a01282de499b137dcdfa11fa467870
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [514.488881111145, 'MB']
+size of file2 :  [514.488881111145, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR126605_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR037511_1.fastq.gz  and  ERR037511_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  e5cda13d7ad5924e04d0c7daa7d52a1a
+md5sum of file2 :  e5cda13d7ad5924e04d0c7daa7d52a1a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [247.27728939056396, 'MB']
+size of file2 :  [247.27728939056396, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR037511_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR1394280_1.fastq.gz  and  ERR1394280_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  87c1ad5eef211579187cd9a16d89d8e9
+md5sum of file2 :  87c1ad5eef211579187cd9a16d89d8e9
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [87.86869049072266, 'MB']
+size of file2 :  [87.86869049072266, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR1394280_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818705_1.fastq.gz  and  SRR5818705_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  dbc5e3d4c190825e4398cbf323a52af7
+md5sum of file2 :  dbc5e3d4c190825e4398cbf323a52af7
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [133.5624074935913, 'MB']
+size of file2 :  [133.5624074935913, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818705_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161190_1.fastq.gz  and  ERR161190_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  6577a33ca0975377b64903e9acadce48
+md5sum of file2 :  6577a33ca0975377b64903e9acadce48
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [189.43691062927246, 'MB']
+size of file2 :  [189.43691062927246, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161190_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161059_2.fastq.gz  and  ERR161059_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  bb337307ef894b18d60456acee227cde
+md5sum of file2 :  bb337307ef894b18d60456acee227cde
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [298.005970954895, 'MB']
+size of file2 :  [298.005970954895, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161059_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161181_2.fastq.gz  and  ERR161181_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  4150ef25c2636ef2ca3af0d2c9a13345
+md5sum of file2 :  4150ef25c2636ef2ca3af0d2c9a13345
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [205.97158336639404, 'MB']
+size of file2 :  [205.97158336639404, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161181_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5314269_2.fastq.gz  and  SRR5314269_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  94f3529b81b81d398d0029a1d62ea762
+md5sum of file2 :  94f3529b81b81d398d0029a1d62ea762
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [281.2580327987671, 'MB']
+size of file2 :  [281.2580327987671, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5314269_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161089_1.fastq.gz  and  ERR161089_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  b97bd53e71d09bbdf68ade0d9a6c2486
+md5sum of file2 :  b97bd53e71d09bbdf68ade0d9a6c2486
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [151.61981201171875, 'MB']
+size of file2 :  [151.61981201171875, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161089_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR037511_2.fastq.gz  and  ERR037511_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c88bc5c196d6be1762dbec6a9b7d663a
+md5sum of file2 :  c88bc5c196d6be1762dbec6a9b7d663a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [242.61451053619385, 'MB']
+size of file2 :  [242.61451053619385, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR037511_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161089_2.fastq.gz  and  ERR161089_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  278778fd997c7e4c6b0aabeb7e2cd3e2
+md5sum of file2 :  278778fd997c7e4c6b0aabeb7e2cd3e2
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [163.41453742980957, 'MB']
+size of file2 :  [163.41453742980957, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161089_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341244_2.fastq.gz  and  SRR5341244_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  534e76454da94b842311bcae293365b6
+md5sum of file2 :  534e76454da94b842311bcae293365b6
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [122.81828784942627, 'MB']
+size of file2 :  [122.81828784942627, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341244_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR4423177_2.fastq.gz  and  SRR4423177_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  91dc49573f8ab5bfb67c4a67f621f700
+md5sum of file2 :  91dc49573f8ab5bfb67c4a67f621f700
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [183.3087558746338, 'MB']
+size of file2 :  [183.3087558746338, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR4423177_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161181_1.fastq.gz  and  ERR161181_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  bfcc528dcb92f155399e2f9ab51779ff
+md5sum of file2 :  bfcc528dcb92f155399e2f9ab51779ff
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [187.93706226348877, 'MB']
+size of file2 :  [187.93706226348877, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161181_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR6480514_2.fastq.gz  and  SRR6480514_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  b4c89563d7c865749d8547cb45f270cd
+md5sum of file2 :  b4c89563d7c865749d8547cb45f270cd
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [206.91306495666504, 'MB']
+size of file2 :  [206.91306495666504, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR6480514_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036236_1.fastq.gz  and  ERR036236_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  ac43b648873e0a99e05a3b6a9935df93
+md5sum of file2 :  ac43b648873e0a99e05a3b6a9935df93
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [210.66535472869873, 'MB']
+size of file2 :  [210.66535472869873, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036236_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036217_2.fastq.gz  and  ERR036217_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  b536b76c61ab2c92a418dd9431a81b5d
+md5sum of file2 :  b536b76c61ab2c92a418dd9431a81b5d
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [120.58932971954346, 'MB']
+size of file2 :  [120.58932971954346, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036217_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341244_1.fastq.gz  and  SRR5341244_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  29fdd29827c0cff87f75c5c10b9ffecb
+md5sum of file2 :  29fdd29827c0cff87f75c5c10b9ffecb
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [99.75895309448242, 'MB']
+size of file2 :  [99.75895309448242, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341244_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161085_2.fastq.gz  and  ERR161085_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  eae4b78e51eb06100a014c80d8c70d11
+md5sum of file2 :  eae4b78e51eb06100a014c80d8c70d11
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [330.78503227233887, 'MB']
+size of file2 :  [330.78503227233887, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161085_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5818705_2.fastq.gz  and  SRR5818705_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  55c3c863190cd0e70deb1120ecfd8717
+md5sum of file2 :  55c3c863190cd0e70deb1120ecfd8717
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [137.02930450439453, 'MB']
+size of file2 :  [137.02930450439453, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5818705_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161085_1.fastq.gz  and  ERR161085_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  7de110ed039923dca14a5b9681fcd8c7
+md5sum of file2 :  7de110ed039923dca14a5b9681fcd8c7
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [306.86058712005615, 'MB']
+size of file2 :  [306.86058712005615, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161085_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161180_1.fastq.gz  and  ERR161180_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  e696721d1be8252a05e37fd93c0d835c
+md5sum of file2 :  e696721d1be8252a05e37fd93c0d835c
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [182.40711307525635, 'MB']
+size of file2 :  [182.40711307525635, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161180_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161180_2.fastq.gz  and  ERR161180_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  53c1113aa6f662bfbe68c68da1e2447e
+md5sum of file2 :  53c1113aa6f662bfbe68c68da1e2447e
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [200.18157577514648, 'MB']
+size of file2 :  [200.18157577514648, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161180_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036236_2.fastq.gz  and  ERR036236_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  53ecc14d63f4bb778fb50c568542d9a5
+md5sum of file2 :  53ecc14d63f4bb778fb50c568542d9a5
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [200.68313026428223, 'MB']
+size of file2 :  [200.68313026428223, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036236_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161063_2.fastq.gz  and  ERR161063_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  80c3c86e7e4c8d937a0d8cf1e34cfa96
+md5sum of file2 :  80c3c86e7e4c8d937a0d8cf1e34cfa96
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [169.21474933624268, 'MB']
+size of file2 :  [169.21474933624268, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161063_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036222_2.fastq.gz  and  ERR036222_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  5e5dd7c96563940a9fb3ae1f697be35d
+md5sum of file2 :  5e5dd7c96563940a9fb3ae1f697be35d
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [154.3700466156006, 'MB']
+size of file2 :  [154.3700466156006, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036222_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341242_2.fastq.gz  and  SRR5341242_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c04c615372dedcbc1e51ff012c69c380
+md5sum of file2 :  c04c615372dedcbc1e51ff012c69c380
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [126.64517974853516, 'MB']
+size of file2 :  [126.64517974853516, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341242_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR124640_1.fastq.gz  and  ERR124640_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  a5ed8a7530c1c2e6994b328d4df1e5ce
+md5sum of file2 :  a5ed8a7530c1c2e6994b328d4df1e5ce
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [508.8242177963257, 'MB']
+size of file2 :  [508.8242177963257, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR124640_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036201_1.fastq.gz  and  ERR036201_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  afb18c81ea7f6d4fea2226b4547e05a5
+md5sum of file2 :  afb18c81ea7f6d4fea2226b4547e05a5
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [125.13011360168457, 'MB']
+size of file2 :  [125.13011360168457, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036201_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161063_1.fastq.gz  and  ERR161063_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  04c28ef4b9958a79b608a070dbb4db3a
+md5sum of file2 :  04c28ef4b9958a79b608a070dbb4db3a
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [156.74116134643555, 'MB']
+size of file2 :  [156.74116134643555, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161063_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161131_2.fastq.gz  and  ERR161131_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c32739d46143d439db76f079064418ea
+md5sum of file2 :  c32739d46143d439db76f079064418ea
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [188.74922466278076, 'MB']
+size of file2 :  [188.74922466278076, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161131_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR5341242_1.fastq.gz  and  SRR5341242_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  13894536532af253359c81eed3c703f3
+md5sum of file2 :  13894536532af253359c81eed3c703f3
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [113.26272773742676, 'MB']
+size of file2 :  [113.26272773742676, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR5341242_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036213_2.fastq.gz  and  ERR036213_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  71983533d0cfb74aa229d58329516d80
+md5sum of file2 :  71983533d0cfb74aa229d58329516d80
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [150.26159954071045, 'MB']
+size of file2 :  [150.26159954071045, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036213_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+SRR3082083_2.fastq.gz  and  SRR3082083_2.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  907f91b3ac43a29fe9183151d28d5f5b
+md5sum of file2 :  907f91b3ac43a29fe9183151d28d5f5b
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [40.784454345703125, 'MB']
+size of file2 :  [40.784454345703125, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR3082083_2.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036222_1.fastq.gz  and  ERR036222_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  91a7d54af8bdc42660082250c273fb80
+md5sum of file2 :  91a7d54af8bdc42660082250c273fb80
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [161.07456398010254, 'MB']
+size of file2 :  [161.07456398010254, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036222_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR161031_1.fastq.gz  and  ERR161031_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  285d5196aa1af84d22eac28dce495425
+md5sum of file2 :  285d5196aa1af84d22eac28dce495425
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [156.65486431121826, 'MB']
+size of file2 :  [156.65486431121826, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR161031_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036213_1.fastq.gz  and  ERR036213_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  7eab0323517b8b19984cb125988aed87
+md5sum of file2 :  7eab0323517b8b19984cb125988aed87
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [156.91753387451172, 'MB']
+size of file2 :  [156.91753387451172, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036213_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+
+##################
+SRR4423177_1.fastq.gz  and  SRR4423177_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  1ce8caff6616b3aa463c864d03f9d5b9
+md5sum of file2 :  1ce8caff6616b3aa463c864d03f9d5b9
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [207.8106336593628, 'MB']
+size of file2 :  [207.8106336593628, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  SRR4423177_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+##################
+ERR036217_1.fastq.gz  and  ERR036217_1.fastq.1.gz  are exactly the same!
+@@@@@@@@@@@@@@@@@@
+md5sum of file1 :  c0b9e2dae0b308c8dfc3f33eb8db39dd
+md5sum of file2 :  c0b9e2dae0b308c8dfc3f33eb8db39dd
+@@@@@@@@@@@@@@@@@@
+size of file1 :  [125.79939556121826, 'MB']
+size of file2 :  [125.79939556121826, 'MB']
+@@@@@@@@@@@@@@@@@@
+Moving  ERR036217_1.fastq.1.gz  to 1gz_files folder
+##################
+
+
+>>>
+  
