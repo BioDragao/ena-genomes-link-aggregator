@@ -1,8 +1,5 @@
 # ena-genomes-link-aggregator
 
-A Clojure library designed to ... well, that part is up to you.
-
-
 ## STEP-1 : Aggregate the links using the excel file from Emilyn
 
 - We did this via browser automation in `etaoin` and `clojure`
@@ -31,13 +28,9 @@ Have relied on `aria2` to download things in parallel.
 ## STEP-3 : Upload all files in Emilyn's OneDrive
 
 
-## Usage
-
-FIXME
-
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Abhinav Sharma ( @abhi18av )
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
