@@ -7,6 +7,8 @@
 
 (def genomes
   [
+   "BRZ-260",
+   "BRZ-116",
    "BRZ-265",
    "BRZ-266",
    "BRZ-267",
@@ -24,7 +26,6 @@
    "BRZ-113",
    "BRZ-114",
    "BRZ-115",
-   "BRZ-116",
    "BRZ-294",
    "BRZ-119",
    "BRZ-283",
@@ -43,7 +44,6 @@
    "BRZ-297",
    "BRZ-259",
    "BRZ-285",
-   "BRZ-260",
    "BRZ-261",
    "BRZ-263",
    "BRZ-264",
@@ -72,21 +72,16 @@
 (go driver "https://www.ebi.ac.uk/ena")
 
 (defn extract-r-file-links-for-a-genome [genome-id]
-
   (clear driver {:id "local-searchbox"})
-
   (fill driver {:id "local-searchbox"} genome-id)
-
   (click-el driver
             (query driver {:fn/has-class "submit"}))
 
-  (wait driver 50)
+  (wait driver 40)
 
   (println genome-id)
-
   (println
     (get-element-attr driver {:css "td.resultReportsCell:nth-child(30) > div:nth-child(1) > a:nth-child(1)"} :href))
-
   (println
     (get-element-attr driver {:css "td.resultReportsCell:nth-child(30) > div:nth-child(1) > a:nth-child(3)"} :href)))
 
