@@ -1,13 +1,13 @@
-(ns ena-genomes-link-aggregator.richard_genomes
+(ns ena-genomes-link-aggregator.marilia_genomes
   (:use etaoin.api)
   (:require [etaoin.keys :as keys]
             [clojure.edn :as edn]))
 
 
 ;;;;;;;;;
-(def richard-genomes-edn
+(def marilia-genomes-edn
   (edn/read-string
-    (slurp "./src/ena_genomes_link_aggregator/richard.edn")))
+    (slurp "./src/ena_genomes_link_aggregator/marilia.edn")))
 
 
 (def driver (firefox {:path-driver  "/usr/local/bin/geckodriver"
@@ -27,7 +27,7 @@
     (get-element-attr driver {:css "td.resultReportsCell:nth-child(30) > div:nth-child(1) > a:nth-child(3)"} :href)))
 
 
-(map extract-r-file-links-for-a-genome richard-genomes-edn)
+(map extract-r-file-links-for-a-genome marilia-genomes-edn)
 
 
 
