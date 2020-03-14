@@ -21,7 +21,7 @@ Didn't work in an assuring way.
 Have relied on `aria2` to download things in parallel.
 
 ```
- nohup aria2c -iurls.txt -j4 &
+ nohup aria2c -i urls.txt -j4 &
 ```
 
 
