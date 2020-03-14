@@ -1,3 +1,9 @@
+##################################
+# Download and setup aria2
+# Then run the following command in the same folder as this file
+# aria2c -i bovis_genomes.txt
+##################################
+
 #ERR3261351
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR326/001/ERR3261351/ERR3261351_1.fastq.gz
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR326/001/ERR3261351/ERR3261351_2.fastq.gz

@@ -1,13 +1,13 @@
-(ns ena-genomes-link-aggregator.boris_genomes
+(ns ena-genomes-link-aggregator.bovis_genomes
   (:use etaoin.api)
   (:require [etaoin.keys :as keys]
             [clojure.edn :as edn]))
 
 
 ;;;;;;;;;
-(def boris-genomes-edn
+(def bovis-genomes-edn
   (edn/read-string
-    (slurp "./src/ena_genomes_link_aggregator/boris.edn")))
+    (slurp "./src/ena_genomes_link_aggregator/bovis.edn")))
 
 
 (def driver (firefox {:path-driver  "/usr/local/bin/geckodriver"
@@ -27,8 +27,9 @@
     (get-element-attr driver {:css "td.resultReportsCell:nth-child(30) > div:nth-child(1) > a:nth-child(3)"} :href)))
 
 
-(map extract-r-file-links-for-a-genome boris-genomes-edn)
+(map extract-r-file-links-for-a-genome bovis-genomes-edn)
 
 
+;;;;;;;;;
 
 
