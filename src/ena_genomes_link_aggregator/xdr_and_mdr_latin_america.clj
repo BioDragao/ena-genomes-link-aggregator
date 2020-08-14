@@ -60,6 +60,9 @@
   '())
 
 
+;http://repo.tiye.me/mvc-works/edn-formatter/
+
+
 
 (def all-genomes-metadata-edn
   (edn/read-string
@@ -84,7 +87,7 @@
     (fn [ftp-vector] (= 2 (count ftp-vector)))
     all-ftp-links))
 
-
+;; NOTE
 (with-open [w (clojure.java.io/writer "./genomes_with_2_ftp_files.edn")]
   (binding [*print-length* false
             *out* w]
