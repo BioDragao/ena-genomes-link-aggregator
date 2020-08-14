@@ -7,7 +7,8 @@
             [com.wsscode.edn-json :refer :all]
             [taoensso.timbre.appenders.core :as appenders]
             [clj-http.client :as client]
-            [clojure.java.io :as io]))
+            [clojure.java.io :as io]
+            [clojure.string :as str]))
 
 (def mdr-and-xdr-latin-america-edn
   (edn/read-string
@@ -56,8 +57,41 @@
       (pr all-genomes-edn)))
 
 
-
   '())
+
+
+
+(def all-genomes-metadata-edn
+  (edn/read-string
+    (slurp "./all_genomes.edn")))
+
+(count all-genomes-metadata-edn)
+
+(str/split
+  (:fastq_ftp (first all-genomes-metadata-edn))
+  #";")
+
+
+(def all-ftp-links
+  (map (fn [genome-metadata]
+         (str/split
+           (:fastq_ftp genome-metadata)
+           #";"))
+       all-genomes-metadata-edn))
+
+(def genomes-with-2-ftp-files
+  (filter
+    (fn [ftp-vector] (= 2 (count ftp-vector)))
+    all-ftp-links))
+
+
+(with-open [w (clojure.java.io/writer "./genomes_with_2_ftp_files.edn")]
+  (binding [*print-length* false
+            *out* w]
+    (pr (flatten genomes-with-2-ftp-files))))
+
+
+
 
 (defn save-json
   "
