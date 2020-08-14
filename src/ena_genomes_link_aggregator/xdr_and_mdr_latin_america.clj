@@ -32,7 +32,7 @@
 
 
 (comment
-  (fetch-edn (get-genome-url "ERR751350"))
+  (fetch-edn (get-genome-url "SAMN11493603"))
 
   '())
 
